@@ -8,3 +8,4 @@ creates a symbolic to /bin/ls named _ls_
 creates a script that copies all HTML files
 creates a script that copies all files beginning with an upper case letter to /tmp/u
 creates a script that deletes all files in the current working directory that ends with ~
+creates a script that creates the director welcom/,welcome/to/and welcome/to/school
