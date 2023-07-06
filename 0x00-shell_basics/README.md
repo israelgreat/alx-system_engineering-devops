@@ -6,3 +6,4 @@ lists all files even ones begining with a period character,which are normally hi
 prints the type of the file named iamafile
 creates a symbolic to /bin/ls named _ls_
 creates a script that copies all HTML files
+creates a script that copies all files beginning with an upper case letter to /tmp/u
