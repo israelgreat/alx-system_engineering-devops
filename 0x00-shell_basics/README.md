@@ -7,3 +7,4 @@ prints the type of the file named iamafile
 creates a symbolic to /bin/ls named _ls_
 creates a script that copies all HTML files
 creates a script that copies all files beginning with an upper case letter to /tmp/u
+creates a script that deletes all files in the current working directory that ends with ~
