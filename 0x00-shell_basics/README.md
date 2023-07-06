@@ -10,3 +10,4 @@ creates a script that copies all files beginning with an upper case letter to /t
 creates a script that deletes all files in the current working directory that ends with ~
 creates a script that creates the director welcom/,welcome/to/and welcome/to/school
 creates a script tha list all files and direcories with /,digigts and periods
+creates a magic file school.mgc to confirrm with command file to detect School data files
