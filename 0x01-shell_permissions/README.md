@@ -8,3 +8,4 @@ write a script that adds execut permissions to the owner of the file hello
 write a script that set the mode of the file hello
 create a script that add executable permissions to all subdirectories of the current directory
 create a directory my_dir in the current directory
+write script that changes the group owner of the file hello to school
